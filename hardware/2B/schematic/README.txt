@@ -1,0 +1,1 @@
+Walnut Pi 2B provides a simplified schematic (including all peripheral interfaces); if you have any questions, please email walnutpi@qq.com.
