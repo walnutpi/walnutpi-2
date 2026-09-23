@@ -9,7 +9,7 @@
 | 产品 | 处理器 | NPU | 内存 | 存储 | 无线网络 | 有线网络 | 显示 | 尺寸 | 购买 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [核桃派 2B][1] | T527 | 2TOPS | 1/2/4GB LPDDR4 | EMMC/MicroSD | 双频WiFi6+BT5.0 | 千兆 | HDMI / MIPI DSI 4lane| 85×56×21mm | [🛒][4] |
-| [核桃派 CM2][2] | K230 | 2TOPS | 1/2/4GB LPDDR4 | EMMC/MicroSD | 双频WiFi6+BT5.0 | 千兆 | HDMI / MIPI DSI 4lane | 55x40x4mm | [🛒][5] |
+| [核桃派 CM2][2] | T527 | 2TOPS | 1/2/4GB LPDDR4 | EMMC/MicroSD | 双频WiFi6+BT5.0 | 千兆 | HDMI / MIPI DSI 4lane | 55x40x4mm | [🛒][5] |
 
 [1]: https://wiki.walnutpi.com/docs/walnutpi_2/intro/hw-parameter/#%E6%A0%B8%E6%A1%83%E6%B4%BE2b
 [2]: https://wiki.walnutpi.com/docs/walnutpi_2/intro/hw-parameter/#%E6%A0%B8%E6%A1%83%E6%B4%BEcm2
