@@ -33,6 +33,12 @@ walnutpi-2/
 ├── README.md          # 英文说明
 └── README_zh.md       # 中文说明
 ```
+## 镜像文件
+
+- Debian(推荐): https://github.com/walnutpi/walnutpi-2/releases
+- Ubuntu: https://github.com/walnutpi/walnutpi-2-ubuntu-image/releases
+- Android: https://github.com/walnutpi/walnutpi-2-android-image/releases
+- HomeAssistant: https://github.com/walnutpi/walnutpi-2-homeassistant-image/releases
 
 ## 快速上手
 

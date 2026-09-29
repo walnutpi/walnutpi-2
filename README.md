@@ -33,6 +33,13 @@ walnutpi-2/
 └── README_zh.md       # Chinese documentation
 ```
 
+## Image Files
+
+- Debian (Recommended): https://github.com/walnutpi/walnutpi-2/releases
+- Ubuntu: https://github.com/walnutpi/walnutpi-2-ubuntu-image/releases
+- Android: https://github.com/walnutpi/walnutpi-2-android-image/releases
+- HomeAssistant: https://github.com/walnutpi/walnutpi-2-homeassistant-image/releases
+
 ## Quick Start
 
 1. Download the latest image from the repository [Releases](https://github.com/walnutpi/walnutpi-2/releases) page;
